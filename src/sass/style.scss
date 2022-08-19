@@ -1,0 +1,13 @@
+/* --------------------------------------
+01. Font
+02. Reset + normalize
+03. Base
+-------------------------------------- */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap');
+
+/* -------------------------------------- */
+@import "./vendors/modern-normalize";
+@import "./vendors/reset";
+
+/* -------------------------------------- */
+@import "./_base";
